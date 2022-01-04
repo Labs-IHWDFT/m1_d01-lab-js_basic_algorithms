@@ -20,8 +20,8 @@ Ready to start?
 
 - Fork this repo
 - Clone this repo
-- Type this in the *File Tab* (left panel)
-
+- Go to the file tab on the side and look for the `js/index.js`file
+- Add the following line
   ```javascript
   console.log("I'm ready!");
   ```
@@ -37,16 +37,12 @@ Upon completion, run the following commands:
 ```
 $ git add .
 $ git commit -m "done"
-$ git push origin master
+$ git push origin main
 ```
 Create Pull Request so your TAs can check up your work.
 
 _You should make a PR (stands for Pull Request) as soon as you make any significant change. You shouldn't have to wait until you're completely done with this or any other exercise to make the PR. After you do the first PR, any other time you push the changes (following the previous three steps), your change will appear automatically on the PR and your TAs will be able to check it._
 
-<!-- ## Submission -->
-
-<!-- When you are done and you have checked that everything works fine, click on the **Share** button and copy the link from the *Share Link* field. Send this link to your TAs so they can check up your work.
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_b2aa98f91affe5d4c5f12f216b069184.png) -->
 
 ## Instructions
 
