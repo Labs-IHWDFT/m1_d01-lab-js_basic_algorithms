@@ -2,6 +2,8 @@
 
 # LAB | JS Basic Algorithms 
 
+[![Automated Testing](https://github.com/Labs-IHWDFT/m1_d01-lab-js_basic_algorithms/actions/workflows/test.yml/badge.svg?branch=solution)](https://github.com/Labs-IHWDFT/m1_d01-lab-js_basic_algorithms/actions/workflows/test.yml)
+
 Welcome to your first bootcamp exercise at Ironhack!
 
 The goal of this exercise is to get you familiarized with the primitive data structures in JavaScript, which we just covered in the class. Feel free to reference lesson materials and don't limit yourself but be curious and use Google to explore multiple solutions.
