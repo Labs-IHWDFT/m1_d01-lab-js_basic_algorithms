@@ -25,7 +25,12 @@ if (hacker1.length > hacker2.length) {
 }
 // expected output in this case: "It seems that the navigator has the longest name, it has 4 characters."
 
+
 // Iteration 3: Loops
+// Count the number of words (option 2, in one line):
+// we convert the text into an array by identifying each blank space and then we get the array's length
+console.log(`Second word count is ${trimmedLorem.split(" ").length}.`);
+
 // Iteration 3.1 'Name' to 'N A M E'
 let upperCaseName = "";
 for (let i = 0; i < hacker1.length; i++) {
@@ -79,7 +84,3 @@ for (character of trimmedLorem) {
 }
 console.log(`Word count is ${wordCount + 1}.`);
 
-// Iteration 3: Loops
-// Count the number of words (option 2, in one line):
-// we convert the text into an array by identifying each blank space and then we get the array's length
-console.log(`Second word count is ${trimmedLorem.split(" ").length}.`);
